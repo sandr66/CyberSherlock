@@ -1,0 +1,12 @@
+streamlit
+aiohttp
+beautifulsoup4
+requests
+plotly
+reportlab
+json
+markdown
+ssl
+logging
+datetime
+typing
