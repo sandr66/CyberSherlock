@@ -16,7 +16,7 @@ This tool is designed to provide actionable security insights by identifying com
 
 The project features a full web-based GUI built with Streamlit, designed with a custom theme.
 
-![img.png](img.png)
+![img 4.png](img 4.png)
 ---
 
 ## Key features
