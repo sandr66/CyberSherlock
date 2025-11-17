@@ -71,7 +71,7 @@ This project's core differentiator is its focus on GRC. By mapping technical vul
 * Python 3.9 or newer
 * Git
 
-### 2. Clone & Install
+### 2. Clone & install
 
 Clone the repository and install the required packages using `requirements.txt`.
 
