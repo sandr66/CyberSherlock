@@ -145,13 +145,6 @@ This model ensures that a single critical vulnerability (like SQLi) is always tr
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 ---
-## Author
-
-**Sandra-Georgiana Butnariu**
-- Email: butnariusandra@yahoo.com
-- LinkedIn: [Sandra Butnariu](https://www.linkedin.com/in/sandra-georgiana-butnariu-4078a531b/)
-- GitHub: [@sandrabutnariu](https://github.com/sandr66)
----
 
 ## License
 
